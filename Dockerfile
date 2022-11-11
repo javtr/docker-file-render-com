@@ -1,1 +1,1 @@
-FROM mysql/mysql-server:8.0.24
+FROM jtrianaz/student-system-02:0.0.1-SNAPSHOT
